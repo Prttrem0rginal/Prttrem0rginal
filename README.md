@@ -1,4 +1,8 @@
-## Hi there 👋
+# Olá, me chamo Pedro Rezende ! 
+## Bem vindo ao meu perfil GitHub 👋
+##🌱 I’m currently learning 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          
 
 <!--
 **Prttrem0rginal/Prttrem0rginal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
