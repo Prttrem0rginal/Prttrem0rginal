@@ -1,6 +1,8 @@
 # Olá, me chamo Pedro Rezende ! 
 ## Bem vindo ao meu perfil GitHub 👋
-##🌱 I’m currently learning 
+##🌱 I’m currently learning : <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+          
+
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
           
 
