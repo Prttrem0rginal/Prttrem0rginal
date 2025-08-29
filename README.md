@@ -10,6 +10,8 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Prttrem0rginal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+## Obrigado por visitar meu perfil.
+
  ![smiles-homelander](https://github.com/user-attachments/assets/efc51de5-f2f3-450f-a530-0afd04a5cfd4)
 
 
